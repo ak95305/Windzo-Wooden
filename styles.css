@@ -318,6 +318,7 @@ header {
   display: none;
   z-index: 999;
   height: 100vh;
+  overflow: auto;
 }
 
 .slide_nav {
